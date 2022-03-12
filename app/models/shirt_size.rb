@@ -1,0 +1,2 @@
+class ShirtSize < ApplicationRecord
+end
